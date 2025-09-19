@@ -1,0 +1,14 @@
+
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+
+# next build caches
+.next/cache
+
+# IDE / system
+.vscode
+.idea
+.DS_Store
+*.swp
